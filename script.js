@@ -79,6 +79,7 @@ var responses = {
     "tem versão mobile?": "não amigo",
     "tem pra celular?": "não amigo",
     "tem pra iphone?": "não amigo",
+    "te amo": "oxi, lá ele mano",
 };
 
 function sendMessage() {
