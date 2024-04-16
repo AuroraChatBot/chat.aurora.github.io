@@ -80,6 +80,19 @@ var responses = {
     "tem pra celular?": "não amigo",
     "tem pra iphone?": "não amigo",
     "te amo": "oxi, lá ele mano",
+    "cu": "cu",
+    "porra": "porra",
+    "gayzinho": "fodase?",
+    "sou ruim": "ai falou a verdade",
+    "você é a cópia do chatgpt": "é verdade, somos irmãos",
+    "top": "top 👍",
+    "chato": "Fala, fala, cala a boca, feche o bico, se for pra te escutar prefiro não ter ouvido",
+    "toba": "tob 👎",
+    "bosta": "As vezes a melhor resposta é o silêncio",
+    "chatgpt": "Modo ChatGPT não existe, por favor, tente novamente mais tarde",
+    "sla kkkk": "sla kkkk",
+    "YouTube": "Prefiro Twitch",
+    "Twitch": "Prefiro YouTube",
 };
 
 function sendMessage() {
@@ -153,7 +166,7 @@ function sendMessage() {
         }, 500);
     } else {
         setTimeout(function() {
-            appendMessage("Aurora", "Desculpe, não entendi. Poderia reformular sua pergunta?");
+            appendMessage("Aurora", "Você é cego pra escrever assim? Fala de novo ai, não vou tankar.");
         }, 500);
     }
 }
