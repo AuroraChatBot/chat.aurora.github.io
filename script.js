@@ -127,6 +127,10 @@ var responses = {
     "foof": "Blowjoob",
     "cock": "booost",
     "loki": "Cuzin",
+    "jooj": "uTorrent",
+    "Steam": "Bitch",
+    "steam": "Bitch",
+    "STEAM": "Bitch",
 };
 
 function sendMessage() {
