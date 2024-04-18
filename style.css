@@ -255,3 +255,21 @@ body {
 .social-icons a:hover {
     color: #0056b3;
 }
+
+.contact-info-container {
+    display: flex;
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+}
+
+.contact-info {
+    display: flex;
+    align-items: center;
+}
+
+.contact-info img {
+    margin-right: 10px;
+}
+
+footer{
+    text-align: center;
+}
