@@ -131,6 +131,8 @@ var responses = {
     "Steam": "Bitch",
     "steam": "Bitch",
     "STEAM": "Bitch",
+    "gogogo": "toma",
+    "punheta": "punteta",
 };
 
 function sendMessage() {
